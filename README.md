@@ -19,6 +19,8 @@ and standardized. So the work of converting the data from raw form to directly a
 before calling on a statistician. This can dramatically speed the turnaround time, since the statistician doesn't
 have to work through all the pre-processing steps first. 
 
+Add some small changes to markdown files to test just how it works. 
+
 
 What you should deliver to the statistician
 ====================
